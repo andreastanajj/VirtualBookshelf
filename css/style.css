@@ -145,7 +145,7 @@ section {
 
 .bottom-navbar {
   text-align: center;
-  background: var(--primaryColor);
+  background: #222831;
   position: fixed;
   bottom: 0;
   left: 0;
