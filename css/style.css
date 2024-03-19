@@ -57,7 +57,7 @@ section {
   color: var(--black);
 }
 .header .header-1 .logo i {
-  color: var(--primaryColor);
+  color: #222831;
 }
 
 .header .header-1 .search-form {
@@ -98,7 +98,7 @@ section {
   font-size: 2.5rem;
 }
 .header .header-1 .icons a {
-  color: var(--primaryColor);
+ color:  #222831;
 }
 .header .header-1 .icons a:hover {
   color: var(--primaryColor);
@@ -114,7 +114,7 @@ section {
 }
 
 .header-2 {
-  background-color: var(--primaryColor);
+  background-color: #222831;
   text-align: center;
   padding: 5px;
 }
@@ -176,7 +176,7 @@ section {
   padding: 10px 20px;
   border-radius: 0.5rem;
   color: #fff;
-  background: var(--primaryColor);
+  background: #31363F;
   font-size: 1.7rem;
   cursor: pointer;
   font-weight: 500;
@@ -224,7 +224,7 @@ section {
 }
 
 .home .row .content .btn:hover {
-  background-color: var(--secondaryColor);
+  background-color: #76ABAE;
   color: black;
 }
 
@@ -280,7 +280,9 @@ section {
   color: var(--secondaryColor);
   transform: scale(0.9);
 }
-
+.navv:hover{
+  background-color: #334 !important;
+}
 .about .row .content .icons-container .icons {
   background: #eee;
   border-radius: 0.5rem;
@@ -295,7 +297,7 @@ section {
 
 .about .row .content .icons-container .icons i {
   font-size: 2.5rem;
-  color: var(--green);
+  color: #222831;
 }
 
 .about .row .content .icons-container .icons span {
@@ -309,7 +311,7 @@ section {
   padding: 10px 20px;
   border-radius: 0.5rem;
   color: #fff;
-  background: var(--primaryColor);
+  background: #31363F;
   font-size: 1.7rem;
   cursor: pointer;
   font-weight: 500;
@@ -317,7 +319,7 @@ section {
 }
 
 .about .row .btn:hover {
-  background-color: var(--secondaryColor);
+  background-color: #76ABAE;
   color: black;
 }
 
@@ -328,14 +330,14 @@ section {
   padding: 10px 20px;
   border-radius: 0.5rem;
   color: #fff;
-  background: var(--primaryColor);
+  background: #222831;
   font-size: 1.7rem;
   cursor: pointer;
   font-weight: 500;
 }
 
 .populer .box .btn:hover {
-  background-color: var(--secondaryColor);
+  background-color: #76ABAE;
   color: black;
 }
 
@@ -362,7 +364,7 @@ section {
   padding: 0.5rem 2rem;
   color: #000;
   background: #fff;
-  border: 1px solid var(--primaryColor);
+  border: 1px solid #222831;
   border-radius: 7px;
 }
 
@@ -468,7 +470,7 @@ section {
   align-items: center;
 }
 .member .container .row .content span {
-  color: var(--primaryColor);
+  color: #76ABAE;
 }
 
 .member .container .row .box {
@@ -478,7 +480,7 @@ section {
   color: var(--black);
   border-radius: 0.5rem;
   text-transform: none;
-  border: 1px solid var(--primaryColor);
+  border: 1px solid  #76ABAE;;
 }
 
 .member .row .image {
@@ -548,14 +550,14 @@ section {
   padding: 10px 20px;
   border-radius: 0.5rem;
   color: #fff;
-  background: var(--primaryColor);
+  background: #222831;
   font-size: 1.7rem;
   cursor: pointer;
   font-weight: 500;
 }
 
 .member .row .btn:hover {
-  background-color: var(--secondaryColor);
+  background-color: #76ABAE;
   color: black;
 }
 
@@ -596,7 +598,7 @@ section {
 
 .new .new-slider .box .content .stars i {
   font-size: 1.5rem;
-  color: var(--primaryColor);
+  color: #FDB162;
 }
 
 .new .new-slider-2 .box {
@@ -905,7 +907,7 @@ footer .left .content .social a span:hover {
 }
 footer .center .content .fas {
   font-size: 20px;
-  background: var(--primaryColor);
+  background: #222831;
   height: 45px;
   width: 45px;
   line-height: 45px;
@@ -916,7 +918,7 @@ footer .center .content .fas {
   color: #fff;
 }
 footer .center .content .fas:hover {
-  background: var(--secondaryColor);
+  background: #76ABAE;
   color: #000;
 }
 footer .center .content .text {
@@ -961,7 +963,7 @@ footer .right form .btn button {
   width: 100%;
   border: none;
   outline: none;
-  background: var(--primaryColor);
+  background: #222831;
   font-size: 1.7rem;
   font-weight: 500;
   cursor: pointer;
@@ -970,7 +972,7 @@ footer .right form .btn button {
   border-radius: 7px;
 }
 footer .right form .btn button:hover {
-  background: #385b64;
+  background: #76ABAE;
   border: 1px solid #000;
 }
 footer .bottom {
